@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Subcategory
+1,Product_1,Frozen,Sugar-Free
+2,Product_2,Cleaning,Gluten-Free
+3,Product_3,Produce,Organic
+4,Product_4,Personal Care,Sugar-Free
+5,Product_5,Frozen,Low-Fat
+6,Product_6,Cereals,Low-Fat
+7,Product_7,Snacks,Gluten-Free
+8,Product_8,Frozen,Sugar-Free
+9,Product_9,Produce,Organic
+10,Product_10,Personal Care,Low-Fat
+11,Product_11,Cleaning,Sugar-Free
+12,Product_12,Produce,Sugar-Free
+13,Product_13,Produce,Gluten-Free
+14,Product_14,Snacks,Low-Fat
+15,Product_15,Bakery,Low-Fat
+16,Product_16,Personal Care,Organic
+17,Product_17,Beverages,Low-Fat
+18,Product_18,Produce,Organic
+19,Product_19,Bakery,Low-Fat
+20,Product_20,Beverages,Gluten-Free
+21,Product_21,Personal Care,Low-Fat
+22,Product_22,Dairy,Organic
+23,Product_23,Cereals,Organic
+24,Product_24,Bakery,Gluten-Free
+25,Product_25,Meat,Low-Fat
+26,Product_26,Dairy,Low-Fat
+27,Product_27,Cereals,Gluten-Free
+28,Product_28,Snacks,Low-Fat
+29,Product_29,Frozen,Low-Fat
+30,Product_30,Cleaning,Organic
+31,Product_31,Meat,Low-Fat
+32,Product_32,Snacks,Low-Fat
+33,Product_33,Personal Care,Gluten-Free
+34,Product_34,Snacks,Gluten-Free
+35,Product_35,Frozen,Sugar-Free
+36,Product_36,Personal Care,Organic
+37,Product_37,Meat,Low-Fat
+38,Product_38,Frozen,Low-Fat
+39,Product_39,Beverages,Sugar-Free
+40,Product_40,Cleaning,Low-Fat
+41,Product_41,Meat,Organic
+42,Product_42,Beverages,Sugar-Free
+43,Product_43,Cereals,Organic
+44,Product_44,Meat,Sugar-Free
+45,Product_45,Cereals,Sugar-Free
+46,Product_46,Personal Care,Gluten-Free
+47,Product_47,Beverages,Organic
+48,Product_48,Cleaning,Low-Fat
+49,Product_49,Frozen,Low-Fat
+50,Product_50,Produce,Organic
+51,Product_51,Snacks,Low-Fat
+52,Product_52,Dairy,Low-Fat
+53,Product_53,Cleaning,Organic
+54,Product_54,Beverages,Sugar-Free
+55,Product_55,Produce,Organic
+56,Product_56,Cleaning,Sugar-Free
+57,Product_57,Beverages,Low-Fat
+58,Product_58,Bakery,Low-Fat
+59,Product_59,Bakery,Low-Fat
+60,Product_60,Cereals,Gluten-Free
+61,Product_61,Cleaning,Sugar-Free
+62,Product_62,Bakery,Gluten-Free
+63,Product_63,Beverages,Gluten-Free
+64,Product_64,Cereals,Organic
+65,Product_65,Beverages,Gluten-Free
+66,Product_66,Cereals,Organic
+67,Product_67,Cleaning,Organic
+68,Product_68,Produce,Gluten-Free
+69,Product_69,Frozen,Sugar-Free
+70,Product_70,Meat,Sugar-Free
+71,Product_71,Produce,Sugar-Free
+72,Product_72,Personal Care,Sugar-Free
+73,Product_73,Beverages,Sugar-Free
+74,Product_74,Personal Care,Gluten-Free
+75,Product_75,Produce,Gluten-Free
+76,Product_76,Cereals,Low-Fat
+77,Product_77,Meat,Sugar-Free
+78,Product_78,Meat,Gluten-Free
+79,Product_79,Dairy,Low-Fat
+80,Product_80,Meat,Sugar-Free
+81,Product_81,Frozen,Organic
+82,Product_82,Meat,Low-Fat
+83,Product_83,Produce,Gluten-Free
+84,Product_84,Dairy,Organic
+85,Product_85,Produce,Organic
+86,Product_86,Produce,Organic
+87,Product_87,Snacks,Low-Fat
+88,Product_88,Dairy,Gluten-Free
+89,Product_89,Produce,Organic
+90,Product_90,Snacks,Sugar-Free
+91,Product_91,Snacks,Organic
+92,Product_92,Dairy,Organic
+93,Product_93,Personal Care,Low-Fat
+94,Product_94,Cereals,Low-Fat
+95,Product_95,Frozen,Gluten-Free
+96,Product_96,Cereals,Sugar-Free
+97,Product_97,Meat,Low-Fat
+98,Product_98,Frozen,Organic
+99,Product_99,Meat,Gluten-Free
+100,Product_100,Produce,Organic
